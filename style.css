@@ -17,6 +17,12 @@ header {
     text-decoration: none;
     list-style: none;
 }
+.logo-link{
+    border: 10px;
+    border: 100px;
+    width: 100px;
+    cursor: pointer;
+}
 .container{
     max-width: 1200px;
     margin: 0 auto;
@@ -36,6 +42,7 @@ header {
     color: #77254f;
     text-transform: uppercase;
     font-weight: bold;
+
 }
 .menu .navbar ul li{
     position: relative;
